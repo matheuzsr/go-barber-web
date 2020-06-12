@@ -28,7 +28,7 @@ npm install
 Rode o Back-End do GoBarber antes de executar o projeto
 
 ```
-https://github.com/tavareshenrique/go-barber-backend
+git clone https://github.com/tavareshenrique/go-barber-backend
 ```
 
 Rode o projeto
